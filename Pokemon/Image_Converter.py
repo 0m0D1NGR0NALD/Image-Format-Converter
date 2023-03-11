@@ -1,5 +1,3 @@
-# jpg to png
-#def JPG_2_PNG():
 import sys
 import os
 from PIL import Image
